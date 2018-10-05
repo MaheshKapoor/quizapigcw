@@ -5,7 +5,10 @@ import com.quizapp.quizapi.model.QuestionResponse;
 import com.quizapp.quizapi.serviceImpl.IQuestionService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import javax.ws.rs.QueryParam;
@@ -22,9 +25,9 @@ public class questionService {
     @RequestMapping(value="/questions", method= RequestMethod.GET)
     @CrossOrigin
     public @ResponseBody
-    List<Question> getDetails(@QueryParam("category") String category ) throws Exception {
+    List<Question> getDetails(@RequestParam("id") final String questionSetId ) throws Exception {
 
-        QuestionResponse questions = questionService.getQuestions(category);
+        QuestionResponse questions = questionService.getQuestions(questionSetId);
         log.debug("setting question :" + questions );
         return questions.getData();
     }
@@ -33,9 +36,9 @@ public class questionService {
     @RequestMapping(value="/answers", method= RequestMethod.POST)
     @CrossOrigin
     public @ResponseBody
-    List<String> getDetails(@RequestBody  String[] questId ) throws Exception {
+    List<String> getDetails(@RequestBody  String[] questId, @RequestParam("id") final String questionSetId) throws Exception {
 
-        List<String> answers = questionService.getAnswers(questId);
+        List<String> answers = questionService.getAnswers(questId, questionSetId);
         log.debug("setting question :" + answers );
         return answers;
     }

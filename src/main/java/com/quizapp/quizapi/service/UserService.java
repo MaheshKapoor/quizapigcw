@@ -4,7 +4,13 @@ import com.quizapp.quizapi.model.User;
 import com.quizapp.quizapi.model.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
+
+import javax.ws.rs.QueryParam;
 
 @RestController
 public class UserService {
@@ -13,9 +19,9 @@ public class UserService {
 
     @RequestMapping(value="/validateAccount", method=RequestMethod.POST)
     @CrossOrigin
-    public @ResponseBody User getDetails(@RequestBody String userDetail) throws Exception {
+    public @ResponseBody User getDetails(@RequestBody String[] userDetail, @RequestParam("id") String category ) throws Exception {
         User user = new User();
-        user.setName(userDetail);
+        user.setName(userDetail[0]);
         user.setValidUser(true);
 //        if(userDetail != null){
 //

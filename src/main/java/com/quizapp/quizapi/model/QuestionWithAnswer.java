@@ -5,7 +5,7 @@ package com.quizapp.quizapi.model;
  */
 public class QuestionWithAnswer {
 
-    private int QnID;
+    private String QnID;
     private String ImageName;
     private String Qn;
     private String[] Options;
@@ -19,11 +19,11 @@ public class QuestionWithAnswer {
         Options = options;
     }
 
-    public int getQnID() {
+    public String getQnID() {
         return QnID;
     }
 
-    public void setQnID(int qnID) {
+    public void setQnID(String qnID) {
         QnID = qnID;
     }
 
