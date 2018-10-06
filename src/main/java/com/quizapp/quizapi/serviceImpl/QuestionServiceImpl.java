@@ -63,7 +63,7 @@ public class QuestionServiceImpl implements IQuestionService{
 
         QuestionAnswerResponse getAnswerSet = getAnswerSet(questionSetId);
         List<String> answers = new ArrayList<String>();
-        for (QuestionWithAnswer q:getAnswerSet.getData()) {
+        for (QuestionWithAnswer q:getAnswerSet.getData().getQuestions()) {
             for(int i=0; i<questionId.length;i++){
                 if(questionId[i].equalsIgnoreCase(q.getQnID())){
                     answers.add(q.getAnswer());

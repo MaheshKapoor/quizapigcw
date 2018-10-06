@@ -1,0 +1,243 @@
+{
+  "data": {
+    "extraDetails": {
+      "quizTitle":"Driving Knowledge Test Part-1",
+      "previousSet":null,
+      "nextSet":"DKTNSW00E181003001",
+      "numberOfQuestion":"20",
+      "referralLink":[
+        {"title":"Driving knowledge Test Simulation ",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."},
+        {"title":"NSW Government Website for DKT",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."}]
+      },
+    "questions": [
+      {
+        "QnID": 1,
+        "ImageName": null,
+        "Qn": "What will happen if you are caught cheating on the knowledge test?",
+        "Options": [
+          "You will never be allowed to take another test",
+          "Nothing, there is no penalty",
+          "You will not be allowed to take another test for 6 weeks"
+        ],
+        "Answer": "3"
+      },
+      {
+        "QnID": 2,
+        "ImageName": null,
+        "Qn": "What will happen if you offer a testing officer a bribe to pass your driving test?",
+        "Options": [
+          "Action will be taken against you. The penalties are severe and include fines and imprisonment.",
+          "Only the testing officer will be investigated.",
+          "Nothing, there is no penalty"
+        ],
+        "Answer": "1"
+      },
+      {
+        "QnID": 3,
+        "ImageName": null,
+        "Qn": "What will happen if a testing officer asks you for a bribe to pass your driving test and you give it to him or her?",
+        "Options": [
+          "Action will be taken against all involved. The penalties are severe and include fines and imprisonment.",
+          "Nothing, there is no penalty.",
+          "Only the testing officer will be investigated."
+        ],
+        "Answer": "1"
+      },
+      {
+        "QnID": 4,
+        "ImageName": null,
+        "Qn": "Can a P1 or P2 provisional driver legally instruct a learner driver?",
+        "Options": [
+          "Yes, provided the provisional driver has held a P2 licence for more than 6 months",
+          "Yes, provided L and P1 or P2 plates are displayed",
+          "No"
+        ],
+        "Answer": "3"
+      },
+      {
+        "QnID": 5,
+        "ImageName": null,
+        "Qn": "To progress to a P2 provisional licence, a P1 provisional driver must hold a P1 licence for a minimum period of -",
+        "Options": [
+          "18 months",
+          "12 months",
+          "10 months",
+          "24 months"
+        ],
+        "Answer": "2"
+      },
+      {
+        "QnID": 6,
+        "ImageName": null,
+        "Qn": "If one or two of your wheels run off the edge of the roadway, you should -",
+        "Options": [
+          "Increase your speed and drive back on the road",
+          "Slow down quickly by braking hard.",
+          "Slow down gradually and ease back onto the road."
+        ],
+        "Answer": "3"
+      },
+      {
+        "QnID": 7,
+        "ImageName": null,
+        "Qn": "If there are no lanes marked on the road, you should drive -",
+        "Options": [
+          "Anywhere on your side of the road.",
+          "Near to the left-hand side of the road.",
+          "Along the middle of the road."
+        ],
+        "Answer": "2"
+      },
+      {
+        "QnID": 8,
+        "ImageName": null,
+        "Qn": "How close can you park to another vehicle when parked parallel to the kerb?",
+        "Options": [
+          "Yes, if not obstructing traffic",
+          "Yes, if delivering goods.",
+          "No, not at any time."
+        ],
+        "Answer": "3"
+      },
+      {
+        "QnID": 9,
+        "ImageName": null,
+        "Qn": "Do you have any responsibilities when opening a vehicle door on a roadway?",
+        "Options": [
+          "No, any following traffic must stop if the door interferes with its progress",
+          "Yes, you must not open a door if you are likely to cause danger to road users or impede traffic.",
+          "No, there is no regulation to cover this situation."
+        ],
+        "Answer": "2"
+      },
+      {
+        "QnID": 10,
+        "ImageName": null,
+        "Qn": "Are you permitted to park on a median strip or traffic island?",
+        "Options": [
+          "Yes, but for no more than 30 minutes",
+          "Yes, in daylight hours",
+          "No, not at any time."
+        ],
+        "Answer": "3"
+      },
+      {
+        "QnID": 11,
+        "ImageName": null,
+        "Qn": "When driving at sunset or dawn on a dark day, what should you do?",
+        "Options": [
+          "Turn on your lights on low beam.",
+          "Keep your sunglasses on to cut down headlight glare.",
+          "Turn on your hazard warning lights"
+        ],
+        "Answer": "1"
+      },
+      {
+        "QnID": 12,
+        "ImageName": null,
+        "Qn": "Is it an offence to obstruct clear vision of your number plates?",
+        "Options": [
+          "No, you are allowed to cover your number plates if you want to.",
+          "Yes, but it is legal for a towbar or bicycle rack to cover the rear number plate.",
+          "Yes, at any time."
+        ],
+        "Answer": "3"
+      },
+      {
+        "QnID": 13,
+        "ImageName": null,
+        "Qn": "You are driving at night with your headlights on high beam. When should you dip your headlights?",
+        "Options": [
+          "When within 200 metres of an oncoming vehicle only.",
+          "When within 200 metres of the vehicle ahead or an oncoming one.",
+          "Never, you are allowed to drive with your lights on high beam at all times."
+        ],
+        "Answer": "2"
+      },
+      {
+        "QnID": 14,
+        "ImageName": null,
+        "Qn": "Before driving on a freeway, which of the following should you do?",
+        "Options": [
+          "Take something to calm your nerves before driving.",
+          "Make sure your vehicle has enough fuel, oil, water and the correct tyre pressure.",
+          "Take your street directory in case you get lost."
+        ],
+        "Answer": "2"
+      },
+      {
+        "QnID": 15,
+        "ImageName": null,
+        "Qn": "What must you do if you miss your exit on a freeway?",
+        "Options": [
+          "Continue until you reach the next appropriate exit.",
+          "Stop, and reverse back along the freeway to the exit you missed",
+          "Stop immediately and turn around."
+        ],
+        "Answer": "1"
+      },
+      {
+        "QnID": 16,
+        "ImageName": null,
+        "Qn": "As you leave a freeway, which of the following should you check?",
+        "Options": [
+          "Fuel gauge.",
+          "Your speed.",
+          "Windscreen wipers."
+        ],
+        "Answer": "2"
+      },
+      {
+        "QnID": 17,
+        "ImageName": null,
+        "Qn": "Are you permitted to drive a car towing more than one trailer?",
+        "Options": [
+          "Yes, provided you have held a licence for two years.",
+          "Yes, if the combined length of vehicle and trailers does not exceed 15 metres.",
+          "No, not at all."
+        ],
+        "Answer": "3"
+      },
+      {
+        "QnID": 18,
+        "ImageName": null,
+        "Qn": "What must you do when you are towing a caravan to help other vehicles overtake?",
+        "Options": [
+          "Keep at least 60 metres behind heavy vehicles or other vehicles towing caravans.",
+          "Drive at least 25 km/h below the speed limit.",
+          "Stop immediately and let the faster vehicle overtake."
+        ],
+        "Answer": "1"
+      },
+      {
+        "QnID": 19,
+        "ImageName": null,
+        "Qn": "Are you permitted to tow a caravan with a person riding in the caravan?",
+        "Options": [
+          "Make sure you have a street directory, so you know where you are going.",
+          "Check your tyre pressure, and if necessary, increase it to what the manufacturer recommends.",
+          "Have a large meal and a cup of coffee"
+        ],
+        "Answer": "2"
+      },
+      {
+        "QnID": 20,
+        "ImageName": null,
+        "Qn": "If an oncoming vehicle crosses the centre line and is coming straight at you and you cannot stop, you should -",
+        "Options": [
+          "Drive onto the wrong side of the road and hope the other vehicle does not do the same.",
+          "Slow down and hope that the driver will turn away.",
+          "Brake, look for room to the left, sound your horn and flash your lights."
+        ],
+        "Answer": "3"
+      }
+    ]
+  }
+}
+
+
+

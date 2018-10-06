@@ -25,11 +25,11 @@ public class questionService {
     @RequestMapping(value="/questions", method= RequestMethod.GET)
     @CrossOrigin
     public @ResponseBody
-    List<Question> getDetails(@RequestParam("id") final String questionSetId ) throws Exception {
+    QuestionResponse getDetails(@RequestParam("id") final String questionSetId ) throws Exception {
 
         QuestionResponse questions = questionService.getQuestions(questionSetId);
         log.debug("setting question :" + questions );
-        return questions.getData();
+        return questions;
     }
 
 

@@ -7,13 +7,13 @@ import java.util.List;
  */
 public class QuestionResponse {
 
-   private List<Question> data;
+    private QuestionData data;
 
-    public List<Question> getData() {
+    public QuestionData getData() {
         return data;
     }
 
-    public void setData(List<Question> data) {
+    public void setData(QuestionData data) {
         this.data = data;
     }
 }
