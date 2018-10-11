@@ -1,55 +1,55 @@
 package com.quizapp.quizapi.model;
-
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonInclude;
 /**
  * Created by abc on 9/29/2018.
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class QuestionWithAnswer {
-
-    private String QnID;
-    private String ImageName;
-    private String Qn;
-    private String[] Options;
-    private String Answer;
-
-    public String[] getOptions() {
-        return Options;
-    }
-
-    public void setOptions(String[] options) {
-        Options = options;
-    }
+    private String qnID;
+    private String imageName;
+    private String qn;
+    private String[] options;
+    private String answer;
 
     public String getQnID() {
-        return QnID;
+        return qnID;
     }
 
     public void setQnID(String qnID) {
-        QnID = qnID;
+        this.qnID = qnID;
     }
 
     public String getImageName() {
-        return ImageName;
+        return imageName;
     }
 
     public void setImageName(String imageName) {
-        ImageName = imageName;
+        this.imageName = imageName;
     }
 
     public String getQn() {
-        return Qn;
+        return qn;
     }
 
     public void setQn(String qn) {
-        Qn = qn;
+        this.qn = qn;
     }
 
+    public String[] getOptions() {
+        return options;
+    }
 
+    public void setOptions(String[] options) {
+        this.options = options;
+    }
 
     public String getAnswer() {
-        return Answer;
+        return answer;
     }
 
     public void setAnswer(String answer) {
-        Answer = answer;
+        this.answer = answer;
     }
 }

@@ -3,7 +3,7 @@
     "extraDetails": {
       "quizTitle":"Driving Knowledge Test Part-1",
       "previousSet":"DKTNSW00E181003000",
-      "nextSet":null,
+      "nextSet":"DKTNSW00E181003000",
       "numberOfQuestion":"20",
       "referralLink":[
         {"title":"Driving knowledge Test Simulation ",
@@ -15,244 +15,244 @@
       },
     "questions": [
       {
-        "QnID": 1,
-        "ImageName": null,
-        "Qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 1,
+        "imageName": null,
+        "qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 2,
-        "ImageName": null,
-        "Qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 2,
+        "imageName": null,
+        "qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 3,
-        "ImageName": null,
-        "Qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 3,
+        "imageName": null,
+        "qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 4,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 4,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 5,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 5,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 6,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 6,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 7,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 7,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 8,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 8,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 9,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 9,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 10,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 10,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 11,
-        "ImageName": null,
-        "Qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 11,
+        "imageName": null,
+        "qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 12,
-        "ImageName": null,
-        "Qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 12,
+        "imageName": null,
+        "qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 13,
-        "ImageName": null,
-        "Qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 13,
+        "imageName": null,
+        "qn": "New This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 14,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 14,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 15,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 15,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 16,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 16,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 17,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 17,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 18,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 18,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 19,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 19,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       },
       {
-        "QnID": 20,
-        "ImageName": null,
-        "Qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
-        "Options": [
+        "qnID": 20,
+        "imageName": null,
+        "qn": "This country is one of the largest wine-producing countries of the world, where wine is grown in every region of the country. Which country is this?",
+        "options": [
           "France",
           "India",
           "Germany",
           "Australia"
         ],
-        "Answer": "2"
+        "answer": "2"
       }
     ]
   }
