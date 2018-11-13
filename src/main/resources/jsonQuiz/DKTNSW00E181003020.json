@@ -25,7 +25,7 @@
                "Drive with caution.",
                "Not pass another vehicle."
             ],
-            "imageName":"SI001.png",
+            "imageName":"dkt/dkt/SI001.png",
             "qnID":"1",
             "qn":"When you see this sign you should -",
             "answer":"1"
@@ -36,7 +36,7 @@
 				"Turn left at next street.",
                 "Pass to the left of the sign."
             ],
-            "imageName":"SI002.png",
+            "imageName":"dkt/dkt/SI002.png",
             "qnID":"2",
             "qn":"This sign means you should -",
             "answer":"3"
@@ -47,7 +47,7 @@
                "All right lane traffic must turn right at the next intersection",
                "Right lane traffic may turn right or go straight ahead at the next intersection."
             ],
-            "imageName":"SI003.png",
+            "imageName":"dkt/dkt/SI003.png",
             "qnID":"3",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -58,7 +58,7 @@
                "Traffic travels in each direction.",
                "Double lane bridge ahead."
             ],
-            "imageName":"SI004.png",
+            "imageName":"dkt/SI004.png",
             "qnID":"4",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -69,7 +69,7 @@
                "You may turn to the right.",
                "You must not turn to the right."
             ],
-            "imageName":"SI006.png",
+            "imageName":"dkt/SI006.png",
             "qnID":"5",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -80,7 +80,7 @@
                "You must not turn to the left.",
                "You must not turn to the right."
             ],
-            "imageName":"SI007.png",
+            "imageName":"dkt/SI007.png",
             "qnID":"6",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -91,7 +91,7 @@
                "Follow the arrow unless you are turning right",
                "Road curves to the left ahead."
             ],
-            "imageName":"SI008.png",
+            "imageName":"dkt/SI008.png",
             "qnID":"7",
             "qn":"What does this sign mean?",
             "answer":"1"
@@ -102,7 +102,7 @@
                "No left turn.",
                "You may travel only in the direction in which the arrow is pointing."
             ],
-            "imageName":"SI009.png",
+            "imageName":"dkt/SI009.png",
             "qnID":"8",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -113,7 +113,7 @@
                "You are not to exceed 60 km/h.",
                "You are on Highway 60."
             ],
-            "imageName":"SI013.png",
+            "imageName":"dkt/SI013.png",
             "qnID":"9",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -124,7 +124,7 @@
                "You must drive faster than 100 km/h.",
                "The sign applies to truck drivers only, cars can travel at any speed"
             ],
-            "imageName":"SI014.png",
+            "imageName":"dkt/SI014.png",
             "qnID":"10",
             "qn":"What does this sign mean?",
             "answer":"1"
@@ -135,7 +135,7 @@
                "Zoo 30 km ahead.",
                "Nature reserve 30 km ahead."
             ],
-            "imageName":"SI016.png",
+            "imageName":"dkt/SI016.png",
             "qnID":"11",
             "qn":"What does this sign mean?",
             "answer":"1"
@@ -146,7 +146,7 @@
                "No through road ahead, slow down.",
                "T-intersection ahead. If you are on the terminating road, you must give way to all vehicles approaching from your right or left."
             ],
-            "imageName":"SI017.png",
+            "imageName":"dkt/SI017.png",
             "qnID":"12",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -157,7 +157,7 @@
                "Must not stop your vehicle at the kerb during the times shown",
                "May stop at any time to pick up or drop off passengers."
             ],
-            "imageName":"SI018.png",
+            "imageName":"dkt/SI018.png",
             "qnID":"13",
             "qn":"When you see this sign you -",
             "answer":"2"
@@ -168,7 +168,7 @@
                "On the approach to a bridge which has room for only two vehicles, slow down and proceed with caution.",
                "When a bridge is not safe to drive on."
             ],
-            "imageName":"SI019.png",
+            "imageName":"dkt/SI019.png",
             "qnID":"14",
             "qn":"You are most likely to find this sign -",
             "answer":"2"
@@ -179,7 +179,7 @@
                "Sharp turns in the road ahead.",
                "Road may be slippery when wet, slow down and drive carefully."
             ],
-            "imageName":"SI020.png",
+            "imageName":"dkt/SI020.png",
             "qnID":"15",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -190,7 +190,7 @@
                "If there is a steep hill ahead.",
                "If an unsealed road is ahead"
             ],
-            "imageName":"SI021.png",
+            "imageName":"dkt/SI021.png",
             "qnID":"16",
             "qn":"You are most likely to find this sign -",
             "answer":"1"
@@ -201,7 +201,7 @@
                "Do not drive with your lights on high beam.",
                "A sharp depression in the road is ahead, be prepared, slow down."
             ],
-            "imageName":"SI022.png",
+            "imageName":"dkt/SI022.png",
             "qnID":"17",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -212,7 +212,7 @@
             "Turn around and go back, you are going the wrong way.",
             "Sharp bend to the right ahead, slow down and drive carefully."
           ],
-          "imageName":"SI024.png",
+          "imageName":"dkt/SI024.png",
           "qnID":"18",
           "qn":"What does this sign mean?",
           "answer":"3"
@@ -223,7 +223,7 @@
             "There is an athletic field ahead.",
             "Pedestrians are not allowed."
           ],
-          "imageName":"SI025.png",
+          "imageName":"dkt/SI025.png",
           "qnID":"19",
           "qn":"You are most likely to find this sign, where -",
           "answer":"1"
@@ -234,7 +234,7 @@
             "Hospital ahead, drive carefully",
             "Crossroads ahead, reduce your speed and watch out for other traffic and pedestrians."
           ],
-          "imageName":"SI026.png",
+          "imageName":"dkt/SI026.png",
           "qnID":"20",
           "qn":"What does this sign mean?",
           "answer":"3"

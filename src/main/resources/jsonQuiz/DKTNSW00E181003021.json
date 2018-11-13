@@ -25,7 +25,7 @@
                "Slow down and drive carefully over the crossing if you cannot see a train approaching.",
                "Stop until train has passed then proceed immediately."
             ],
-            "imageName":"SI027.png",
+            "imageName":"dkt/SI027.png",
             "qnID":"1",
             "qn":"If the red lights on this sign are flashing what are you required to do?",
             "answer":"1"
@@ -36,7 +36,7 @@
                "You are approaching a school or playground.",
                "A give way sign at an intersection is ahead, slow down and be prepared to stop."
             ],
-            "imageName":"SI028.png",
+            "imageName":"dkt/SI028.png",
             "qnID":"2",
             "qn":"You should expect this sign, if-",
             "answer":"3"
@@ -47,7 +47,7 @@
                "Trucks must use low gear",
                "Heavy vehicle checking station ahead"
             ],
-            "imageName":"SI030.png",
+            "imageName":"dkt/SI030.png",
             "qnID":"3",
             "qn":"You should expect this sign, if -",
             "answer":"1"
@@ -58,7 +58,7 @@
                "Hospital ahead, slow down and proceed with caution.",
                "Slow down and look out for pedestrians crossing the road ahead."
             ],
-            "imageName":"SI031.png",
+            "imageName":"dkt/SI031.png",
             "qnID":"4",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -69,7 +69,7 @@
                "Pedestrian crossing ahead, slow down and be prepared to stop.",
                "Joggers ahead, drive carefully."
             ],
-            "imageName":"SI032.png",
+            "imageName":"dkt/SI032.png",
             "qnID":"5",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -80,7 +80,7 @@
                "If a one lane bridge is ahead.",
                "When a divided road ends and two way traffic is ahead."
             ],
-            "imageName":"SI033.png",
+            "imageName":"dkt/SI033.png",
             "qnID":"6",
             "qn":"You should expect this sign -",
             "answer":"3"
@@ -91,7 +91,7 @@
                "Do not litter",
                "Workers ahead, slow down and be prepared to stop."
             ],
-            "imageName":"SI035.png",
+            "imageName":"dkt/SI035.png",
             "qnID":"7",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -102,7 +102,7 @@
                "Watch out for bicycle riders along the roadway or when turning.",
                "Bicycle riders not allowed on the roadway."
             ],
-            "imageName":"SI036.png",
+            "imageName":"dkt/SI036.png",
             "qnID":"8",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -113,7 +113,7 @@
                "Stop at all times and give way to all traffic.",
                "Stop, red light camera in operation."
             ],
-            "imageName":"SI038.png",
+            "imageName":"dkt/SI038.png",
             "qnID":"9",
             "qn":"What does this sign mean?",
             "answer":"1"
@@ -124,7 +124,7 @@
                "One way traffic ahead.",
                "Stop sign ahead, slow down and prepare to stop."
             ],
-            "imageName":"SI039.png",
+            "imageName":"dkt/SI039.png",
             "qnID":"10",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -135,7 +135,7 @@
                "Traffic controller ahead, slow down and be prepared to stop.",
                "Traffic lights out of order, Police on duty ahead."
             ],
-            "imageName":"SI040.png",
+            "imageName":"dkt/SI040.png",
             "qnID":"11",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -146,7 +146,7 @@
                "Road under repair, slow down",
                "Road ahead slippery when wet, drive carefully."
             ],
-            "imageName":"SI041.png",
+            "imageName":"dkt/SI041.png",
             "qnID":"12",
             "qn":"What does this sign mean?",
             "answer":"1"
@@ -157,7 +157,7 @@
                "Freeway conditions are ahead, maximum speed is 100 km/h.",
                "A two lane bridge is ahead, slow down and drive carefully."
             ],
-            "imageName":"SI042.png",
+            "imageName":"dkt/SI042.png",
             "qnID":"13",
             "qn":"You should expect this sign, when -",
             "answer":"1"
@@ -168,7 +168,7 @@
                "Intersection ahead with traffic lights, prepare to stop",
                "Railway level crossing with flashing signals ahead, slow down, drive carefully, and be prepared to stop."
             ],
-            "imageName":"SI043.png",
+            "imageName":"dkt/SI043.png",
             "qnID":"14",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -179,7 +179,7 @@
                "Road narrows ahead, slow down and prepare for a change in traffic conditions.",
                "Merging traffic, give way to your right."
             ],
-            "imageName":"SI045.png",
+            "imageName":"dkt/SI045.png",
             "qnID":"15",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -190,7 +190,7 @@
                "Vehicles must not stop at the kerb, unless picking up goods",
                "Vehicles must not stop at the kerb, except if picking up a passenger"
             ],
-            "imageName":"SI046.png",
+            "imageName":"dkt/SI046.png",
             "qnID":"16",
             "qn":"What does this sign mean?",
             "answer":"1"
@@ -201,7 +201,7 @@
                "This lane is reserved for bicycle riders only.",
                "Vehicles carrying three or more people, and motorcycles may use this lane."
             ],
-            "imageName":"SI048.png",
+            "imageName":"dkt/SI048.png",
             "qnID":"17",
             "qn":"What does this sign mean?",
             "answer":"3"
@@ -212,7 +212,7 @@
                "Railway level crossing ahead, slow down and look out for trains, be prepared to stop.",
                "Cattle or sheep crossing the road ahead, drive slowly."
             ],
-            "imageName":"SI049.png",
+            "imageName":"dkt/SI049.png",
             "qnID":"18",
             "qn":"What does this sign mean?",
             "answer":"2"
@@ -223,7 +223,7 @@
                "Take care, trucks crossing the road ahead.",
                "Drive carefully and watch out for traffic entering from a side-road intersection ahead."
             ],
-            "imageName":"SI050.png",
+            "imageName":"dkt/SI050.png",
             "qnID":"19",
             "qn":"When you see this sign, you should -",
             "answer":"3"
@@ -234,7 +234,7 @@
                "Stop at the stop line and give way to all traffic on your right only.",
                "Slow down and be prepared to stop only if there is any danger of a collision with another vehicle or pedestrian."
             ],
-            "imageName":"SI051.png",
+            "imageName":"dkt/SI051.png",
             "qnID":"20",
             "qn":"When you see this sign you must -",
             "answer":"1"
