@@ -25,7 +25,7 @@
                "Drive with caution.",
                "Not pass another vehicle."
             ],
-            "imageName":"dkt/dkt/SI001.png",
+            "imageName":"dkt/SI001.png",
             "qnID":"1",
             "qn":"When you see this sign you should -",
             "answer":"1"
@@ -36,7 +36,7 @@
 				"Turn left at next street.",
                 "Pass to the left of the sign."
             ],
-            "imageName":"dkt/dkt/SI002.png",
+            "imageName":"dkt/SI002.png",
             "qnID":"2",
             "qn":"This sign means you should -",
             "answer":"3"
@@ -47,7 +47,7 @@
                "All right lane traffic must turn right at the next intersection",
                "Right lane traffic may turn right or go straight ahead at the next intersection."
             ],
-            "imageName":"dkt/dkt/SI003.png",
+            "imageName":"dkt/SI003.png",
             "qnID":"3",
             "qn":"What does this sign mean?",
             "answer":"2"
