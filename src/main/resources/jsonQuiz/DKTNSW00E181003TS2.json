@@ -1,9 +1,9 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT TRAFFIC SIGNS SECTION",
-         "previousSet":"DKTNSW00E181003020",
-         "nextSet":"DKTNSW00E181003022",
+         "quizTitle":"DKT questions on Traffic Signal",
+         "previousSet":"DKTNSW00E181003TS1",
+         "nextSet":"DKTNSW00E181003TS3",
          "numberOfQuestion":"20",
          "referralLink":[
             {
