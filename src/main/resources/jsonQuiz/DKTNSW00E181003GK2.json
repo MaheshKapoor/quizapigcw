@@ -4,7 +4,7 @@
          "quizTitle":"DKT questions on General Knowledge",
          "previousSet":"DKTNSW00E181003GK2",
          "nextSet":"DKTNSW00E181003GK3",
-         "numberOfQuestion":"20",
+         "numberOfQuestion":"21",
          "referralLink":[
             {
                "title":"Simple Arithematic questions on Multiplication",
@@ -92,12 +92,12 @@
                "Check your tyre pressure, and if necessary, increase it to what the manufacturer recommends."
             ],
             "imageName":null,
-            "qnID":"1",
+            "qnID":"7",
             "qn":"Before driving a long distance at fast speed or carrying a full car load, you should -",
             "answer":"3"
        },
 	  {
-        "qnID": 7,
+        "qnID": "8",
         "imageName": null,
         "qn": "If an oncoming vehicle crosses the centre line and is coming straight at you and you cannot stop, you should -",
         "options": [
@@ -114,7 +114,7 @@
                "Do not need to report the accident to the Police."
             ],
             "imageName":null,
-            "qnID":"8",
+            "qnID":"9",
             "qn":"If you are involved in an accident where your vehicle needs to be towed away and the Police does not attend the crash scene, you -",
             "answer":"2"
          },
@@ -125,7 +125,7 @@
                "Only your name and address details if a Policeman asks for them."
             ],
             "imageName":"dkt/CG045.png",
-            "qnID":"9",
+            "qnID":"10",
             "qn":"If your vehicle is involved in an accident (regardless of the damage), what details must you give, to the other driver(s), if asked?",
             "answer":"1"
          },
@@ -136,7 +136,7 @@
                "Render every assistance and take immediate steps to have an ambulance notified. Then call the Police."
             ],
             "imageName":"dkt/CG046.png",
-            "qnID":"10",
+            "qnID":"11",
             "qn":"If a vehicle you are driving is involved in an accident and a person is injured, what must you do after stopping?",
             "answer":"3"
          },
@@ -147,7 +147,7 @@
                "Car brakes often fail."
             ],
             "imageName":null,
-            "qnID":"11",
+            "qnID":"12",
             "qn":"Stop signs or flashing lights at railway crossings should always be obeyed, because -",
             "answer":"1"
          },
@@ -158,7 +158,7 @@
                "A station is nearby."
             ],
             "imageName":null,
-            "qnID":"12",
+            "qnID":"13",
             "qn":"You should not drive across a railway level crossing when -",
             "answer":"2"
          },
@@ -169,7 +169,7 @@
                "You intend to move to the right, at any time."
             ],
             "imageName":null,
-            "qnID":"13",
+            "qnID":"14",
             "qn":"You should use your right-hand indicator when",
             "answer":"3"
          },
@@ -180,7 +180,7 @@
                "Sound your horn, turn on your indicator lights and move onto the freeway."
             ],
             "imageName":null,
-            "qnID":"14",
+            "qnID":"15",
             "qn":"When merging onto the freeway from the entrance, you should-",
             "answer":"2"
          },
@@ -191,7 +191,7 @@
                "Maintain the same speed."
             ],
             "imageName":null,
-            "qnID":"15",
+            "qnID":"16",
             "qn":"If you see a sign indicating road repairs are going on, you should -",
             "answer":"1"
          },
@@ -202,7 +202,7 @@
                "Clearway restrictions apply - you must not stop during the clearway hours."
             ],
             "imageName":null,
-            "qnID":"16",
+            "qnID":"17",
             "qn":"You see a broken yellow line painted on the roadway adjacent to the kerb. What does it mean?",
             "answer":"3"
          },
@@ -213,7 +213,7 @@
                "Sound your horn to warn the rider."
             ],
             "imageName":null,
-            "qnID":"17",
+            "qnID":"18",
             "qn":"If you see a horse and rider on the road what should you do?",
             "answer":"2"
          },
@@ -224,7 +224,7 @@
                "A car licence."
             ],
             "imageName":null,
-            "qnID":"18",
+            "qnID":"19",
             "qn":"A friend lends you a van that has seats for ten passengers. What type of licence do you need to drive this type of vehicle?",
             "answer":"3"
          },
@@ -235,7 +235,7 @@
                "Tell your doctor and let him or her notify the RTA."
             ],
             "imageName":null,
-            "qnID":"19",
+            "qnID":"20",
             "qn":"What are you required to do if you develop a serious medical condition that could affect your driving?",
             "answer":"1"
          },
@@ -246,7 +246,7 @@
                "Before you borrow the car check the defect notice to make sure it is legal to drive the car."
             ],
             "imageName":null,
-            "qnID":"20",
+            "qnID":"21",
             "qn":"A friend lends you his car. It is very noisy and blows a lot of smoke. He tells you the vehicle has been given a defect notice but it's still OK to drive it. What should you do?",
             "answer":"3"
          }

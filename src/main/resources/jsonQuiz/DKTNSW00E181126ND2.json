@@ -137,7 +137,7 @@
             ],
             "imageName":"dkt/ND015.png",
             "qnID":"11",
-            "qn":"You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKE TURNING VEHICLE. The long vehicle indicates that it is going to turn left. You –",
+            "qn":"You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKE TURNING VEHICLE. The long vehicle indicates that it is going to turn left. You -",
             "answer":"1"
          },
          {
@@ -181,7 +181,7 @@
             ],
             "imageName":null,
             "qnID":"15",
-            "qn":"If you are convicted of driving with a blood alcohol level that is over the limit for your licence, you could lose your driver’s licence. You may also -",
+            "qn":"If you are convicted of driving with a blood alcohol level that is over the limit for your licence, you could lose your driver's licence. You may also -",
             "answer":"1"
          },
          {
